@@ -8,7 +8,7 @@ const me = {
   skills:   ["Bot Scripting", "Web Dev", "Design", "IoT", "SQL",networking],
   hobbies:  ["Gaming", "Bug Bounty Hunting", networking, project iot],
   location: "🌴 Bali, Indonesia",
-  motto:    "kegagalan bukanlah akhir dalam cerita tapi itu adalah sebauh proses🔥"
+  motto:    "kegagalan bukanlah akhir dalam cerita tapi itu adalah sebuah proses🔥"
 }
 ```
 
