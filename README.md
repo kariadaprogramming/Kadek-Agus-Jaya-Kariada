@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm [Kadek Agus Jaya Kariadaa]</h1>
-<h3>🤖 Bot Scripting | 🌐 Web Dev | 🎨 Design | 🔒 Bug Bounty | 🎮 Gamer | 📡 IoT | 🗄️ SQL</h3>
+<h3>🤖 Bot Scripting | 🌐 Web Dev |🔒 Bug Bounty | 📡 IoT | 🗄️ SQL</h3>
 
 ---
 
