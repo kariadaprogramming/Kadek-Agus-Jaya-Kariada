@@ -5,8 +5,8 @@
 
 ```javascript
 const me = {
-  skills:   ["Bot Scripting", "Web Dev", "IoT", networking],
-  hobbies:  ["Gaming", "Bug Bounty Hunting", networking, project iot],
+  skills:   ["Bot Scripting", "Web Dev", "IoT", "networking"],
+  hobbies:  ["Gaming", "Bug Bounty Hunting", "networking, "project iot"],
   location: "🌴 Bali, Indonesia",
   motto:    "kegagalan bukanlah akhir dalam cerita tapi itu adalah sebuah proses🔥"
 }
