@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Kadek Agus Jaya Kariada</h1>
-<h3 align="center">Bot Scripting | Web Dev | Bug Bounty | IoT | SQL</h3>
+<h3 align="center">Bot Scripting | Web Dev | Bug Bounty | IoT |</h3>
 
 <p align="center">
-  <i>"Kegagalan bukanlah akhir dalam cerita tapi itu adalah sebuah proses"</i>
+  <i>"janganlah pernah menyerah sebelum keberhasilan menanti anda"</i>
 </p>
 
 <p align="center">
@@ -44,20 +44,23 @@ const me = {
 
 ## 💼 Pengalaman
 
-> Ganti bagian ini dengan pengalaman kamu yang sebenarnya — di bawah cuma template contoh biar gampang isi cepat.
-
-**Freelance Developer & Bot Scripter** — *Independent* `2023 — Sekarang`
+**Freelance Developer & Bot Scripter** — *Independent* `202 — Sekarang`
 - Membangun dan memelihara berbagai bot (Discord, Telegram, WhatsApp) untuk komunitas dan klien, mencakup sistem ekonomi, moderation, dan integrasi payment gateway.
 - Mengembangkan bridge multi-platform (Discord ↔ WhatsApp ↔ Minecraft) untuk sinkronisasi data real-time.
 - Riset dan pelaporan kerentanan keamanan (bug bounty) pada aplikasi web.
 
 **IT / Programming Competition Participant** — *Kominfosanti* `2024`
-- Meraih Juara 2 Lomba Cyber Security dan menjadi Finalis Lomba Pemrograman.
+- Meraih Juara 2 Lomba Cyber Security.
+- Finalis Lomba Pemrograman.
+- Mengikuti Bootcamp Pemograman di Undiksha
 - Fokus pada analisis kerentanan jaringan dan pengembangan solusi keamanan aplikasi.
 
 **Self-taught IoT & Networking Enthusiast** — *Personal Projects* `2022 — Sekarang`
-- Merancang proyek IoT berbasis Arduino untuk otomasi dan monitoring.
+- Merancang sistem monitoring dan manajemen hotspot menggunakan Python untuk otomasi jaringan.
 - Eksperimen jaringan (routing, server, protokol) untuk memperdalam pemahaman infrastruktur.
+- Mengembangkan proyek IoT sistem izin masuk/keluar guru berbasis RFID untuk efisiensi administrasi sekolah.
+- Membuat Web IPC(Internal Point Character) untuk Siswa di Sekolah
+- Project alert berbasis telegram dan Whastapp
 
 <details>
 <summary><b>✏️ Tips isi cepat</b> (klik untuk lihat)</summary>
@@ -110,8 +113,6 @@ Multi-platform chat integration: Minecraft Paper plugin + Node.js bridge (Discor
 
 ## 🏆 Achievements
 
-> Upload gambar sertifikat/piala ke repo (misal folder `assets/`) lalu ganti path di bawah, contoh: `./assets/juara2-cybersecurity.jpg`
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -129,12 +130,6 @@ Multi-platform chat integration: Minecraft Paper plugin + Node.js bridge (Discor
 
 <details>
 <summary><b>✏️ Cara pasang gambar achievement</b> (klik untuk lihat)</summary>
-
-1. Buat folder `assets/` di root repo profil kamu (repo bernama sama dengan username: `deankariada/deankariada`).
-2. Upload foto sertifikat/piala ke folder itu.
-3. Ganti `src="./assets/nama-file.jpg"` di atas sesuai nama file yang diupload.
-4. Bisa tambah baris baru di dalam `<table>` kalau achievement makin banyak.
-</details>
 
 ---
 
