@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 
-Independent developer from **Bali, Indonesia** yang passionate membangun bot, web tools, dan proyek IoT. Suka memecahkan masalah lewat kode dan mengeksplorasi persimpangan antara networking, automation, dan digital services.
+Seseorang murid biasa yang menyukai dunia TI yang berfokus pada infrastruktur jaringan, skrip otomatisasi dan serta eksplorasi keamanan siber. Selalu bersemangat mengubah ide menjadi proyek nyata. 
 
 ```javascript
 const me = {
