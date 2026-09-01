@@ -128,9 +128,6 @@ Multi-platform chat integration: Minecraft Paper plugin + Node.js bridge (Discor
   </tr>
 </table>
 
-<details>
-<summary><b>✏️ Cara pasang gambar achievement</b> (klik untuk lihat)</summary>
-
 ---
 
 ## 📞 Let's Connect
