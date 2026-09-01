@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Kadek Agus Jaya Kariada</h1>
+<h1 align="center">Kadek Agus Jaya Kariada</h1>
 <h3 align="center">Bot Scripting | Web Dev | Bug Bounty | IoT |</h3>
 
 <p align="center">
@@ -44,18 +44,18 @@ const me = {
 
 ## 💼 Pengalaman
 
-**Freelance Developer & Bot Scripter** — *Independent* `202 — Sekarang`
+**Freelance Developer & Bot Scripter**`202 — Sekarang`
 - Membangun dan memelihara berbagai bot (Discord, Telegram, WhatsApp) untuk komunitas dan klien, mencakup sistem ekonomi, moderation, dan integrasi payment gateway.
 - Mengembangkan bridge multi-platform (Discord ↔ WhatsApp ↔ Minecraft) untuk sinkronisasi data real-time.
 - Riset dan pelaporan kerentanan keamanan (bug bounty) pada aplikasi web.
 
-**IT / Programming Competition Participant** — *Kominfosanti* `2024`
+**IT / Programming Competition Participant**`2024`
 - Meraih Juara 2 Lomba Cyber Security.
 - Finalis Lomba Pemrograman.
 - Mengikuti Bootcamp Pemograman di Undiksha
 - Fokus pada analisis kerentanan jaringan dan pengembangan solusi keamanan aplikasi.
 
-**Self-taught IoT & Networking Enthusiast** — *Personal Projects* `2022 — Sekarang`
+**Self-taught IoT & Networking Enthusiast**`2022 — Sekarang`
 - Merancang sistem monitoring dan manajemen hotspot menggunakan Python untuk otomasi jaringan.
 - Eksperimen jaringan (routing, server, protokol) untuk memperdalam pemahaman infrastruktur.
 - Mengembangkan proyek IoT sistem izin masuk/keluar guru berbasis RFID untuk efisiensi administrasi sekolah.
