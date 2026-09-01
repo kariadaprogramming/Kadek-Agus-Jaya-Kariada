@@ -1,16 +1,20 @@
-# Hi there 👋 I'm Kadek Agus Jaya Kariada
+<h1 align="center">Hi there 👋 I'm Kadek Agus Jaya Kariada</h1>
+<h3 align="center">Bot Scripting | Web Dev | Bug Bounty | IoT | SQL</h3>
 
-**Bot Scripting | Web Dev | Bug Bounty | IoT | SQL**
+<p align="center">
+  <i>"Kegagalan bukanlah akhir dalam cerita tapi itu adalah sebuah proses"</i>
+</p>
 
-```
-"Kegagalan bukanlah akhir dalam cerita tapi itu adalah sebuah proses"
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deankariada&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/deankariada?style=flat-square&color=blueviolet" alt="Followers"/>
+</p>
 
 ---
 
 ## 💻 About Me
 
-Independent developer from **Bali, Indonesia** passionate about building cool bots, web tools, and IoT projects. I love solving problems through code and exploring the intersection of networking, automation, and digital services.
+Independent developer from **Bali, Indonesia** yang passionate membangun bot, web tools, dan proyek IoT. Suka memecahkan masalah lewat kode dan mengeksplorasi persimpangan antara networking, automation, dan digital services.
 
 ```javascript
 const me = {
@@ -32,6 +36,39 @@ const me = {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 💼 Pengalaman
+
+> Ganti bagian ini dengan pengalaman kamu yang sebenarnya — di bawah cuma template contoh biar gampang isi cepat.
+
+**Freelance Developer & Bot Scripter** — *Independent* `2023 — Sekarang`
+- Membangun dan memelihara berbagai bot (Discord, Telegram, WhatsApp) untuk komunitas dan klien, mencakup sistem ekonomi, moderation, dan integrasi payment gateway.
+- Mengembangkan bridge multi-platform (Discord ↔ WhatsApp ↔ Minecraft) untuk sinkronisasi data real-time.
+- Riset dan pelaporan kerentanan keamanan (bug bounty) pada aplikasi web.
+
+**IT / Programming Competition Participant** — *Kominfosanti* `2024`
+- Meraih Juara 2 Lomba Cyber Security dan menjadi Finalis Lomba Pemrograman.
+- Fokus pada analisis kerentanan jaringan dan pengembangan solusi keamanan aplikasi.
+
+**Self-taught IoT & Networking Enthusiast** — *Personal Projects* `2022 — Sekarang`
+- Merancang proyek IoT berbasis Arduino untuk otomasi dan monitoring.
+- Eksperimen jaringan (routing, server, protokol) untuk memperdalam pemahaman infrastruktur.
+
+<details>
+<summary><b>✏️ Tips isi cepat</b> (klik untuk lihat)</summary>
+
+Format tiap entri:
+```
+**Posisi/Peran** — *Nama Perusahaan/Organisasi* `Bulan Tahun — Bulan Tahun`
+- Poin pencapaian atau tanggung jawab (mulai dengan kata kerja aktif)
+- Poin kedua
+```
+</details>
 
 ---
 
@@ -56,28 +93,69 @@ Multi-platform chat integration: Minecraft Paper plugin + Node.js bridge (Discor
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deankariada&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deankariada&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deankariada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deankariada&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deankariada&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deankariada&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-✅ Built multiple Telegram/Discord/WhatsApp bots for communities  
-✅ Developed real-time notification systems  
-✅ Created gaming economy systems with marketplace  
-✅ Bug bounty hunter & security enthusiast  
-✅ IoT projects dengan Arduino & networking  
-✅ Active contributor to open-source projects  
+> Upload gambar sertifikat/piala ke repo (misal folder `assets/`) lalu ganti path di bawah, contoh: `./assets/juara2-cybersecurity.jpg`
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/juara2-cybersecurity.jpg" alt="Juara 2 Cyber Security" width="100%"/><br/>
+      <b>🥈 Juara 2 — Lomba Cyber Security</b><br/>
+      <sub>Kominfosanti</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/finalis-pemrograman.jpg" alt="Finalis Lomba Pemrograman" width="100%"/><br/>
+      <b>🏅 Finalis — Lomba Pemrograman</b><br/>
+      <sub>Kominfosanti</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>✏️ Cara pasang gambar achievement</b> (klik untuk lihat)</summary>
+
+1. Buat folder `assets/` di root repo profil kamu (repo bernama sama dengan username: `deankariada/deankariada`).
+2. Upload foto sertifikat/piala ke folder itu.
+3. Ganti `src="./assets/nama-file.jpg"` di atas sesuai nama file yang diupload.
+4. Bisa tambah baris baru di dalam `<table>` kalau achievement makin banyak.
+</details>
 
 ---
 
 ## 📞 Let's Connect
 
-- GitHub: [@deankariada](https://github.com/deankariada)
-- Location: Bali, Indonesia 🌴
+<p align="left">
+  <a href="https://github.com/deankariada" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Tambahkan link lain kalau ada, contoh:
+  <a href="https://instagram.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/62XXXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  -->
+</p>
+
+📍 Bali, Indonesia 🌴
 
 ---
 
-*Last updated: August 2026*
+<p align="center"><i>Last updated: September 2026</i></p>
