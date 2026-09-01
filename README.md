@@ -48,6 +48,7 @@ const me = {
 - Membangun dan memelihara berbagai bot (Discord, Telegram, WhatsApp) untuk komunitas dan klien, mencakup sistem ekonomi, moderation, dan integrasi payment gateway.
 - Mengembangkan bridge multi-platform (Discord ↔ WhatsApp ↔ Minecraft) untuk sinkronisasi data real-time.
 - Riset dan pelaporan kerentanan keamanan (bug bounty) pada aplikasi web.
+- Pengalaman menggunakan linux
 
 **IT / Programming Competition Participant** `2024`
 - Meraih Juara 2 Lomba Cyber Security.
@@ -61,17 +62,6 @@ const me = {
 - Mengembangkan proyek IoT sistem izin masuk/keluar guru berbasis RFID untuk efisiensi administrasi sekolah.
 - Membuat Web IPC(Internal Point Character) untuk Siswa di Sekolah
 - Project alert berbasis telegram dan Whastapp
-
-<details>
-<summary><b>✏️ Tips isi cepat</b> (klik untuk lihat)</summary>
-
-Format tiap entri:
-```
-**Posisi/Peran** — *Nama Perusahaan/Organisasi* `Bulan Tahun — Bulan Tahun`
-- Poin pencapaian atau tanggung jawab (mulai dengan kata kerja aktif)
-- Poin kedua
-```
-</details>
 
 ---
 
