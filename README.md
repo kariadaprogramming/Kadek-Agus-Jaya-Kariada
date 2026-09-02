@@ -69,10 +69,12 @@ const me = {
 
 ### IPC System 
 Website Sekolah untuk mengelola point karakter siswa dan prestasi siswa 
+
 https://github.com/kariadaprogramming/ipc-system.git
 
 ### Ijin/Keluar Pegawai dan Guru
 project untuk guru dan pegawai saat ijin keluar masuk sekolah 
+
 https://github.com/kariadaprogramming/projectijinguru.git
 
 
