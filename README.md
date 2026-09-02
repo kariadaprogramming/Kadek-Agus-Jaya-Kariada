@@ -65,24 +65,16 @@ const me = {
 
 ---
 
-## 🎯 Featured Projects
+##  My Projects
 
-### 🤖 Discord RPG Bot
-Economy bot dengan dual currency system, skills, dan marketplace. Bot lengkap dengan gamification dan trading features.
+### IPC System 
+Website Sekolah untuk mengelola point karakter siswa dan prestasi siswa 
+https://github.com/kariadaprogramming/ipc-system.git
 
-### 📱 Telegram Store Bot
-Bot toko digital dengan integrasi Atlantic Pedia H2H gateway untuk penjualan produk digital.
+### Ijin/Keluar Pegawai dan Guru
+project untuk guru dan pegawai saat ijin keluar masuk sekolah 
+https://github.com/kariadaprogramming/projectijinguru.git
 
-### 💬 WhatsApp Bot (Baileys)
-WhatsApp automation dengan fitur moderation, balance management, dan mini-games.
-
-### 🌉 Discord ↔️ WhatsApp Bridge
-Real-time notification bridge untuk Growtopia trading community. Sinkronisasi market updates antar platform.
-
-### ⛏️ Minecraft Chat Bridge
-Multi-platform chat integration: Minecraft Paper plugin + Node.js bridge (Discord, WhatsApp).
-
----
 
 ## 📊 GitHub Stats
 
