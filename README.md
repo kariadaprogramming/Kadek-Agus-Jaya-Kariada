@@ -100,12 +100,12 @@ https://github.com/kariadaprogramming/projectijinguru.git
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/236947916/645501293-0a6e76a4-d27d-4be2-8f26-1bbc7e835eb0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0MTk0NTAsIm5iZiI6MTc4ODQxOTE1MCwicGF0aCI6Ii8yMzY5NDc5MTYvNjQ1NTAxMjkzLTBhNmU3NmE0LWQyN2QtNGJlMi04ZjI2LTFiYmM3ZTgzNWViMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwM1QwNzA1NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YmFjOTBjNzM3NmQ1ZTdiNWFiZWViOTBhZTM0ZmIxMmNmNTQyMDU2YTRiNGM0YzU5YzliZTliYTUzMTA4MWI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.WpQ9Ptp2eanQhoPY7V3AB8jogtwyjk1jmztB5bElLvk" alt="Juara 2 Cyber Security" width="100%"/><br/>
+      <img src="" alt="Juara 2 Cyber Security" width="100%"/><br/>
       <b>🥈 Juara 2 — Lomba Cyber Security</b><br/>
       <sub>Kominfosanti</sub>
     </td>
     <td align="center" width="50%">
-      <img src="./assets/finalis-pemrograman.jpg" alt="Finalis Lomba Pemrograman" width="100%"/><br/>
+      <img src="https://private-user-images.githubusercontent.com/236947916/645501293-0a6e76a4-d27d-4be2-8f26-1bbc7e835eb0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0MTk0NTAsIm5iZiI6MTc4ODQxOTE1MCwicGF0aCI6Ii8yMzY5NDc5MTYvNjQ1NTAxMjkzLTBhNmU3NmE0LWQyN2QtNGJlMi04ZjI2LTFiYmM3ZTgzNWViMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwM1QwNzA1NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YmFjOTBjNzM3NmQ1ZTdiNWFiZWViOTBhZTM0ZmIxMmNmNTQyMDU2YTRiNGM0YzU5YzliZTliYTUzMTA4MWI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.WpQ9Ptp2eanQhoPY7V3AB8jogtwyjk1jmztB5bElLvk" alt="Finalis Lomba Pemrograman" width="100%"/><br/>
       <b>🏅 Finalis — Lomba Pemrograman</b><br/>
       <sub>Kominfosanti</sub>
     </td>
