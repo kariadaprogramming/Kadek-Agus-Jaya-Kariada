@@ -89,25 +89,30 @@ https://github.com/kariadaprogramming/projectijinguru.git
 
 ## 🏆 Achievements
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/juara%202%20cyber.jpeg?raw=true" alt="Juara 2 Cyber Security" width="100%"/><br/>
-      <b>🥈 Juara 2 — Lomba Cyber Security</b><br/>
-      <sub>Kominfosanti</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/Kadek%20Agus%20Jaya%20Kariada-1.png?raw=true" alt="Finalis Lomba Pemrograman" width="100%"/><br/>
-      <b>🏅 Finalis — Lomba Pemrograman</b><br/>
-      <sub>Kominfosanti</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/it%20bootcamp.png?raw=true" width="100%"/><br/>
-      <b>🎓 IT BOOTCAMP</b><br/>
-      <sub>Universitas Pendidikan Ganesha (Undiksha)</sub>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <!-- Kartu 1 -->
+  <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px;">
+    <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/juara%202%20cyber.jpeg?raw=true" alt="Juara 2 Cyber Security" style="width: 100%; border-radius: 6px;" /><br/>
+    <b style="font-size: 14px; display: block; margin-top: 8px;">🥈 Juara 2 — Lomba Cyber Security</b>
+    <span style="font-size: 12px; color: #586069;">Kominfosanti</span>
+  </div>
+
+  <!-- Kartu 2 -->
+  <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px;">
+    <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/Kadek%20Agus%20Jaya%20Kariada-1.png?raw=true" alt="Finalis Lomba Pemrograman" style="width: 100%; border-radius: 6px;" /><br/>
+    <b style="font-size: 14px; display: block; margin-top: 8px;">🏅 Finalis — Lomba Pemrograman</b>
+    <span style="font-size: 12px; color: #586069;">Kominfosanti</span>
+  </div>
+
+  <!-- Kartu 3 -->
+  <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px;">
+    <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/it%20bootcamp.png?raw=true" alt="IT Bootcamp" style="width: 100%; border-radius: 6px;" /><br/>
+    <b style="font-size: 14px; display: block; margin-top: 8px;">🎓 IT BOOTCAMP</b>
+    <span style="font-size: 12px; color: #586069;">Universitas Pendidikan Ganesha (Undiksha)</span>
+  </div>
+
+</div>
 ---
 
 ## 📞 Let's Connect
