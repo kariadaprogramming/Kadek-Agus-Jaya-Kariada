@@ -81,19 +81,11 @@ https://github.com/kariadaprogramming/projectijinguru.git
 ## 📊 GitHub Stats
 
 <!-- Stats & Top Languages (Side by Side) -->
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kariadaprogramming&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariadaprogramming&layout=compact&theme=tokyonight&hide_border=true)
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kariadaprogramming&show_icons=true&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariadaprogramming&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=kariadaprogramming&theme=tokyonight&hide_border=true)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=kariadaprogramming&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kariadaprogramming&theme=tokyo-night&hide_border=true)
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kariadaprogramming&theme=tokyo-night&hide_border=true)
 ## 🏆 Achievements
 
 <table>
