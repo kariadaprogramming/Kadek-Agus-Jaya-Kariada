@@ -110,7 +110,7 @@ https://github.com/kariadaprogramming/projectijinguru.git
       <sub>Kominfosanti</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://private-user-images.githubusercontent.com/236947916/645510751-a3d7e186-f2de-4a5b-a3c9-6205ea393c78.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0MjAwNTEsIm5iZiI6MTc4ODQxOTc1MSwicGF0aCI6Ii8yMzY5NDc5MTYvNjQ1NTEwNzUxLWEzZDdlMTg2LWYyZGUtNGE1Yi1hM2M5LTYyMDVlYTM5M2M3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwM1QwNzE1NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZTM2Mjg1MzY3MDNjODY2ZTQyODgwYzU4Y2I2MmU2YzRiYzJkMGQ0ZWY5MmUyMDExMGY0YjYzZDg2NTljNjcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.4F1_8ASVmcvsp8Tep9Dt-3fx1JHC0bTdfK_g_Ve8f9g" alt="IT BOOTCAMP" width="100%"/><br/>
+      <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/it%20bootcamp.png?raw=true" width="100%"/><br/>
       <b>🎓 IT BOOTCAMP</b><br/>
       <sub>Universitas Pendidikan Ganesha (Undiksha)</sub>
     </td>
