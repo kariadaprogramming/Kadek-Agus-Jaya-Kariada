@@ -96,7 +96,13 @@ https://github.com/kariadaprogramming/projectijinguru.git
 ---
 
 ## 🏆 Achievements
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="" alt="IT BOOTCAMP" width="100%"/><br/>
+      <b>IT BOOTCAMP</b><br/>
+      <sub>Kominfosanti</sub>
+    </td>
 <table>
   <tr>
     <td align="center" width="50%">
