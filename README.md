@@ -100,7 +100,7 @@ https://github.com/kariadaprogramming/projectijinguru.git
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./assets/juara2-cybersecurity.jpg" alt="Juara 2 Cyber Security" width="100%"/><br/>
+      <img src="https://github.com/user-attachments/assets/bca1cf03-241c-4bca-8797-4475cc69f88d" alt="Juara 2 Cyber Security" width="100%"/><br/>
       <b>🥈 Juara 2 — Lomba Cyber Security</b><br/>
       <sub>Kominfosanti</sub>
     </td>
