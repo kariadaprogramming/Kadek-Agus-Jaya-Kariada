@@ -121,7 +121,7 @@ https://github.com/kariadaprogramming/projectijinguru.git
 ## 📞 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/deankariada" target="_blank">
+  <a href="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- Tambahkan link lain kalau ada, contoh:
