@@ -81,23 +81,17 @@ https://github.com/kariadaprogramming/projectijinguru.git
 ## 📊 GitHub Stats
 
 <!-- Stats & Top Languages (Side by Side) -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=deankariada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deankariada&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-  </a>
+p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deankariada&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deankariada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deankariada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deankariada&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deankariada&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 ---
 
