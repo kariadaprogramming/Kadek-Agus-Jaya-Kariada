@@ -93,7 +93,7 @@ https://github.com/kariadaprogramming/projectijinguru.git
 
   <!-- Kartu 1 -->
   <div style="flex: 1; min-width: 250px; max-width: 320px; text-align: center; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px;">
-    <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/juara%202%20cyber.jpeg?raw=true" alt="Juara 2 Cyber Security" style="width: 100%; border-radius: 6px;" /><br/>
+    <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/leaksx.png?raw=true" alt="Juara 2 Cyber Security" style="width: 100%; border-radius: 6px;" /><br/>
     <b style="font-size: 14px; display: block; margin-top: 8px;">🥈 Juara 2 — Lomba Cyber Security</b>
     <span style="font-size: 12px; color: #586069;">Kominfosanti</span>
   </div>
