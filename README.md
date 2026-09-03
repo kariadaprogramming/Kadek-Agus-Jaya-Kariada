@@ -82,16 +82,16 @@ https://github.com/kariadaprogramming/projectijinguru.git
 
 <!-- Stats & Top Languages (Side by Side) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kariadaprogramming&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariadaprogramming&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kariadaprogramming&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariadaprogramming&layout=compact&theme=tokyonight&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kariadaprogramming&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=kariadaprogramming&theme=tokyonight&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kariadaprogramming&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kariadaprogramming&theme=tokyo-night&hide_border=true)
 </p>
 
 ## 🏆 Achievements
