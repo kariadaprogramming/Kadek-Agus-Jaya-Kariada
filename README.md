@@ -100,7 +100,7 @@ https://github.com/kariadaprogramming/projectijinguru.git
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://private-user-images.githubusercontent.com/236947916/645663023-1fc21452-ce9e-4704-ae89-36ab951de0ce.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg0MzU5NzAsIm5iZiI6MTc4ODQzNTY3MCwicGF0aCI6Ii8yMzY5NDc5MTYvNjQ1NjYzMDIzLTFmYzIxNDUyLWNlOWUtNDcwNC1hZTg5LTM2YWI5NTFkZTBjZS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MDNUMTE0MTEwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGFiZmExY2FmMjMyOGRkNTc2NDUzNzY4YjIxNjliM2EwMDMwNTMzZjI5N2ViYTdiMjA4YmJlNTM4NzI0ZjIwMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.nVRsNOlET1qzsQwRNm-gcAHR2uXnErEMtHlMWv7od7o" alt="Juara 2 Cyber Security" width="100%"/><br/>
+      <img src="https://github.com/kariadaprogramming/Kadek-Agus-Jaya-Kariada/blob/main/juara%202%20cyber.jpeg?raw=true" alt="Juara 2 Cyber Security" width="100%"/><br/>
       <b>🥈 Juara 2 — Lomba Cyber Security</b><br/>
       <sub>Kominfosanti</sub>
     </td>
